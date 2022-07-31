@@ -9,7 +9,7 @@
 - 🔭 Durant mon temps libre j'adore apprendre plein de choses sur les nouvelles technologies    
   
 
-- 🌱 J'apprends actuellement ASP.NET  
+- 🌱 J'apprends actuellement ASP.NET Core
   
 
 - ⚔️ Grand fan de la sécurité informatique    
